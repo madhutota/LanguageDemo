@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageDemo</string>
+    <string name="txt_cancel">Cancel </string>
+    <string name="txt_select">Select Language </string>
+    <string name="select_language">Select Language</string>
+    <string name="hello_world">Hello Hindi</string>
+
+    <string name="txt_please_select_language">जारी रखने के लिए कृपया अपनी पसंदीदा\nभाषा का चयन करें</string>
+
+</resources>

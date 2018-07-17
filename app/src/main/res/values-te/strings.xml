@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageDemo</string>
+    <string name="txt_cancel">Cancel </string>
+    <string name="txt_select">Select Language </string>
+    <string name="select_language">Select Language</string>
+    <string name="hello_world">Hello Telugu</string>
+
+    <string name="txt_please_select_language">దయచేసి కొనసాగడానికి మీ ప్రాధాన్యమైన\nభాషని ఎంచుకోండి</string>
+
+
+
+</resources>

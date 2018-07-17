@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LanguageDemo</string>
+    <string name="txt_cancel">Cancel </string>
+    <string name="txt_select">Select Language </string>
+    <string name="select_language">Select Language</string>
+    <string name="hello_world">Hello World</string>
+    <string name="content_desc" />
+    <string name="txt_please_select_language">Please select your preferred\nlanguage to continue</string>
+
+
+    <string-array name="india_states">
+        <item>Telugu</item>
+        <item>Hindi</item>
+        <item>English</item>
+        <item>Tamil</item>
+
+    </string-array>
+
+
+</resources>
